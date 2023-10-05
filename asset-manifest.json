@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/TTT-react/static/css/main.073c9b0a.css",
-    "main.js": "/TTT-react/static/js/main.ed8c37bf.js",
+    "main.css": "/TTT-react/static/css/main.4f35e879.css",
+    "main.js": "/TTT-react/static/js/main.fbb61258.js",
     "static/js/787.f3cd31b8.chunk.js": "/TTT-react/static/js/787.f3cd31b8.chunk.js",
-    "static/media/logo.svg": "/TTT-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/TTT-react/index.html",
-    "main.073c9b0a.css.map": "/TTT-react/static/css/main.073c9b0a.css.map",
-    "main.ed8c37bf.js.map": "/TTT-react/static/js/main.ed8c37bf.js.map",
+    "main.4f35e879.css.map": "/TTT-react/static/css/main.4f35e879.css.map",
+    "main.fbb61258.js.map": "/TTT-react/static/js/main.fbb61258.js.map",
     "787.f3cd31b8.chunk.js.map": "/TTT-react/static/js/787.f3cd31b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ed8c37bf.js"
+    "static/css/main.4f35e879.css",
+    "static/js/main.fbb61258.js"
   ]
 }
